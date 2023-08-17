@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+WeatherApp_Project_02 in WeatherApp_Project_02, no dependencies
+WeatherApp_Project_02 in WeatherApp_Project_02, no dependencies

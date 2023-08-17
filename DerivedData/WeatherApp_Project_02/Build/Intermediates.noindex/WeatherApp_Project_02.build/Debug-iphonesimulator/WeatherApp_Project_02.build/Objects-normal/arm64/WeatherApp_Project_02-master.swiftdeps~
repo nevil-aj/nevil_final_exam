@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "6140a99b9f5bfb556765126d888ee4e1a4a1c1a11dfd671d05346ecd3d2d7dc8"
+build_start_time: [1691190019, 467642000]
+build_end_time: [1691190019, 544747000]
+inputs:
+  "/Users/kallu/Music/Archive/WeatherApp_Project_02/AppDelegate.swift": !private [1691164341, 0]
+  "/Users/kallu/Music/Archive/WeatherApp_Project_02/CityWeather.swift": !private [1691168027, 0]
+  "/Users/kallu/Music/Archive/WeatherApp_Project_02/CustomTableViewCell.swift": !private [1691165840, 0]
+  "/Users/kallu/Music/Archive/WeatherApp_Project_02/SceneDelegate.swift": !private [1690904960, 0]
+  "/Users/kallu/Music/Archive/WeatherApp_Project_02/SecondViewController.swift": !private [1691172618, 0]
+  "/Users/kallu/Music/Archive/WeatherApp_Project_02/ViewController.swift": !private [1691168025, 0]

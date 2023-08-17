@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "24809d1397d8a3972be35ec4496a8dc11d2407d253510bd8ddf9cc0c2b63a829"
+    }
+  ],
+  "containerPath" : "/Users/kallu/Music/Archive/WeatherApp_Project_02.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kallu/Music/Archive/DerivedData/WeatherApp_Project_02/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kallu/Music/Archive/DerivedData/WeatherApp_Project_02/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/kallu/Music/Archive/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kallu/Music/Archive/DerivedData/WeatherApp_Project_02/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kallu/Music/Archive/DerivedData/WeatherApp_Project_02/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/kallu/Music/Archive/DerivedData/WeatherApp_Project_02/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/kallu/Music/Archive/DerivedData/WeatherApp_Project_02/Build/Products",
+      "pchPath" : "/Users/kallu/Music/Archive/DerivedData/WeatherApp_Project_02/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
